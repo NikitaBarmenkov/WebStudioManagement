@@ -1,0 +1,321 @@
+C:\Users\Никита\source\repos\WebStudio_coursework\WebStudio_coursework\bin\Debug\WebStudio_coursework.exe.config
+C:\Users\Никита\source\repos\WebStudio_coursework\WebStudio_coursework\bin\Debug\WebStudio_coursework.exe
+C:\Users\Никита\source\repos\WebStudio_coursework\WebStudio_coursework\bin\Debug\WebStudio_coursework.pdb
+C:\Users\Никита\source\repos\WebStudio_coursework\WebStudio_coursework\bin\Debug\EntityFramework.dll
+C:\Users\Никита\source\repos\WebStudio_coursework\WebStudio_coursework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Никита\source\repos\WebStudio_coursework\WebStudio_coursework\bin\Debug\EntityFramework.xml
+C:\Users\Никита\source\repos\WebStudio_coursework\WebStudio_coursework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Никита\source\repos\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\WebStudio_coursework\WebStudio_coursework\obj\Debug\MainWindow.g.cs
+C:\Users\Никита\source\repos\WebStudio_coursework\WebStudio_coursework\obj\Debug\App.g.cs
+C:\Users\Никита\source\repos\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework_MarkupCompile.cache
+C:\Users\Никита\source\repos\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework_MarkupCompile.lref
+C:\Users\Никита\source\repos\WebStudio_coursework\WebStudio_coursework\obj\Debug\MainWindow.baml
+C:\Users\Никита\source\repos\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.g.resources
+C:\Users\Никита\source\repos\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.Properties.Resources.resources
+C:\Users\Никита\source\repos\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.CopyComplete
+C:\Users\Никита\source\repos\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.exe
+C:\Users\Никита\source\repos\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.pdb
+D:\WebStudio_coursework\WebStudio_coursework\bin\Debug\WebStudio_coursework.exe.config
+D:\WebStudio_coursework\WebStudio_coursework\bin\Debug\WebStudio_coursework.exe
+D:\WebStudio_coursework\WebStudio_coursework\bin\Debug\WebStudio_coursework.pdb
+D:\WebStudio_coursework\WebStudio_coursework\bin\Debug\EntityFramework.dll
+D:\WebStudio_coursework\WebStudio_coursework\bin\Debug\EntityFramework.SqlServer.dll
+D:\WebStudio_coursework\WebStudio_coursework\bin\Debug\EntityFramework.xml
+D:\WebStudio_coursework\WebStudio_coursework\bin\Debug\EntityFramework.SqlServer.xml
+D:\WebStudio_coursework\WebStudio_coursework\obj\Debug\AddWindow.g.cs
+D:\WebStudio_coursework\WebStudio_coursework\obj\Debug\MainWindow.g.cs
+D:\WebStudio_coursework\WebStudio_coursework\obj\Debug\UpdateWindow.g.cs
+D:\WebStudio_coursework\WebStudio_coursework\obj\Debug\App.g.cs
+D:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework_MarkupCompile.cache
+D:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework_MarkupCompile.lref
+D:\WebStudio_coursework\WebStudio_coursework\obj\Debug\AddWindow.baml
+D:\WebStudio_coursework\WebStudio_coursework\obj\Debug\MainWindow.baml
+D:\WebStudio_coursework\WebStudio_coursework\obj\Debug\UpdateWindow.baml
+D:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.g.resources
+D:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.Properties.Resources.resources
+D:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.GenerateResource.cache
+D:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.CoreCompileInputs.cache
+D:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.CopyComplete
+D:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.exe
+D:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.pdb
+D:\WebStudio_coursework\WebStudio_coursework\bin\Debug\ru\EntityFramework.resources.dll
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.csprojAssemblyReference.cache
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\AddWindow.g.cs
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\MainWindow.g.cs
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\UpdateWindow.g.cs
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\App.g.cs
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework_MarkupCompile.cache
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework_MarkupCompile.lref
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.exe
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.pdb
+F:\WebStudio_coursework\WebStudio_coursework\bin\Debug\WebStudio_coursework.exe.config
+F:\WebStudio_coursework\WebStudio_coursework\bin\Debug\WebStudio_coursework.exe
+F:\WebStudio_coursework\WebStudio_coursework\bin\Debug\WebStudio_coursework.pdb
+F:\WebStudio_coursework\WebStudio_coursework\bin\Debug\EntityFramework.dll
+F:\WebStudio_coursework\WebStudio_coursework\bin\Debug\EntityFramework.SqlServer.dll
+F:\WebStudio_coursework\WebStudio_coursework\bin\Debug\EntityFramework.xml
+F:\WebStudio_coursework\WebStudio_coursework\bin\Debug\EntityFramework.SqlServer.xml
+F:\WebStudio_coursework\WebStudio_coursework\bin\Debug\ru\EntityFramework.resources.dll
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\AddWindow.baml
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\MainWindow.baml
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\UpdateWindow.baml
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.g.resources
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.Properties.Resources.resources
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.GenerateResource.cache
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.CoreCompileInputs.cache
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.CopyComplete
+D:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.csprojAssemblyReference.cache
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\ProjectPage.g.cs
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\ProjectPage.baml
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\EmployeePage.g.cs
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\EmployeePage.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\WebStudio_coursework.exe.config
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\WebStudio_coursework.exe
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\WebStudio_coursework.pdb
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\EntityFramework.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\EntityFramework.xml
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.csprojAssemblyReference.cache
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\AddWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\EmployeePage.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\MainWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\ProjectPage.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\UpdateWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\App.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework_MarkupCompile.cache
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework_MarkupCompile.lref
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\AddWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\EmployeePage.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\MainWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\ProjectPage.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\UpdateWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.g.resources
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.Properties.Resources.resources
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.GenerateResource.cache
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.CoreCompileInputs.cache
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.CopyComplete
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.exe
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.pdb
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\Model.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\ViewModel.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\Model.pdb
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\Model.dll.config
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\ViewModel.pdb
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\ViewModel.dll.config
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\CustomerPage.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\CustomerPage.baml
+F:\WebStudio_coursework\WebStudio_coursework\bin\Debug\ViewModel.dll
+F:\WebStudio_coursework\WebStudio_coursework\bin\Debug\Model.dll
+F:\WebStudio_coursework\WebStudio_coursework\bin\Debug\ViewModel.pdb
+F:\WebStudio_coursework\WebStudio_coursework\bin\Debug\ViewModel.dll.config
+F:\WebStudio_coursework\WebStudio_coursework\bin\Debug\Model.pdb
+F:\WebStudio_coursework\WebStudio_coursework\bin\Debug\Model.dll.config
+F:\WebStudio_coursework\WebStudio_coursework\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\CustomerPage.g.cs
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\CustomerPage.baml
+F:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.ProjectItem.resources
+D:\WebStudio_coursework\WebStudio_coursework\bin\Debug\ViewModel.dll
+D:\WebStudio_coursework\WebStudio_coursework\bin\Debug\Model.dll
+D:\WebStudio_coursework\WebStudio_coursework\bin\Debug\ViewModel.pdb
+D:\WebStudio_coursework\WebStudio_coursework\bin\Debug\ViewModel.dll.config
+D:\WebStudio_coursework\WebStudio_coursework\bin\Debug\Model.pdb
+D:\WebStudio_coursework\WebStudio_coursework\bin\Debug\Model.dll.config
+D:\WebStudio_coursework\WebStudio_coursework\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.ProjectItem.resources
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\WebStudio_coursework.exe.config
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\WebStudio_coursework.exe
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\WebStudio_coursework.pdb
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\EntityFramework.dll
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\ViewModel.dll
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\Model.dll
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\ViewModel.pdb
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\ViewModel.dll.config
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\EntityFramework.xml
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\Model.pdb
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\Model.dll.config
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\AddWindow.g.cs
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\MainWindow.g.cs
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\UpdateWindow.g.cs
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\App.g.cs
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework_MarkupCompile.cache
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework_MarkupCompile.lref
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\AddWindow.baml
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\MainWindow.baml
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\UpdateWindow.baml
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.g.resources
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.ProjectItem.resources
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.Properties.Resources.resources
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.CopyComplete
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.exe
+C:\Users\Никита\Desktop\WebStudio_coursework\WebStudio_coursework\obj\Debug\WebStudio_coursework.pdb
+D:\WebStudio_coursework1\WebStudio_coursework\bin\Debug\WebStudio_coursework.exe.config
+D:\WebStudio_coursework1\WebStudio_coursework\bin\Debug\WebStudio_coursework.exe
+D:\WebStudio_coursework1\WebStudio_coursework\bin\Debug\WebStudio_coursework.pdb
+D:\WebStudio_coursework1\WebStudio_coursework\bin\Debug\EntityFramework.dll
+D:\WebStudio_coursework1\WebStudio_coursework\bin\Debug\EntityFramework.SqlServer.dll
+D:\WebStudio_coursework1\WebStudio_coursework\bin\Debug\ViewModel.dll
+D:\WebStudio_coursework1\WebStudio_coursework\bin\Debug\Model.dll
+D:\WebStudio_coursework1\WebStudio_coursework\bin\Debug\ViewModel.pdb
+D:\WebStudio_coursework1\WebStudio_coursework\bin\Debug\ViewModel.dll.config
+D:\WebStudio_coursework1\WebStudio_coursework\bin\Debug\EntityFramework.xml
+D:\WebStudio_coursework1\WebStudio_coursework\bin\Debug\EntityFramework.SqlServer.xml
+D:\WebStudio_coursework1\WebStudio_coursework\bin\Debug\Model.pdb
+D:\WebStudio_coursework1\WebStudio_coursework\bin\Debug\Model.dll.config
+D:\WebStudio_coursework1\WebStudio_coursework\bin\Debug\ru\EntityFramework.resources.dll
+D:\WebStudio_coursework1\WebStudio_coursework\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\WebStudio_coursework.csprojAssemblyReference.cache
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\MainWindow.g.cs
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\App.g.cs
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\WebStudio_coursework_MarkupCompile.cache
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\WebStudio_coursework_MarkupCompile.lref
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\MainWindow.baml
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\WebStudio_coursework.g.resources
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\WebStudio_coursework.Properties.Resources.resources
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.GenerateResource.cache
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.CoreCompileInputs.cache
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.CopyComplete
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\WebStudio_coursework.exe
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\WebStudio_coursework.pdb
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\ProjectItem.g.cs
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\ProjectItem.baml
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\CustomerWindow.g.cs
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\ProjectWindowAdd.g.cs
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\ProjectWindowUpd.g.cs
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\CustomerWindow.baml
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\ProjectWindowAdd.baml
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\ProjectWindowUpd.baml
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\Note.g.cs
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\Note.baml
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\Notes.g.cs
+D:\WebStudio_coursework1\WebStudio_coursework\obj\Debug\Notes.baml
+D:\WebStudio_coursework1\WebStudio_coursework\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\bin\Debug\WebStudio_coursework.exe.config
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\bin\Debug\WebStudio_coursework.exe
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\bin\Debug\WebStudio_coursework.pdb
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\bin\Debug\EntityFramework.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\bin\Debug\ViewModel.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\bin\Debug\Model.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\bin\Debug\ViewModel.pdb
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\bin\Debug\ViewModel.dll.config
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\bin\Debug\EntityFramework.xml
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\bin\Debug\Model.pdb
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\bin\Debug\Model.dll.config
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\WebStudio_coursework.csprojAssemblyReference.cache
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\ProjectItem.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\App.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\WebStudio_coursework_MarkupCompile.cache
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\WebStudio_coursework_MarkupCompile.lref
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\ProjectItem.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\WebStudio_coursework.g.resources
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\WebStudio_coursework.Properties.Resources.resources
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.GenerateResource.cache
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.CoreCompileInputs.cache
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.CopyComplete
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\WebStudio_coursework.exe
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\WebStudio_coursework.pdb
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\DepartmentWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\EmployeeWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\RoleWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\ServiceWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\StatusWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\CustomerWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\LoginWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\Note.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\Notes.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\ProjectWindowAdd.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\MainWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\ProjectWindowUpd.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\DepartmentWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\EmployeeWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\RoleWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\ServiceWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\StatusWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\CustomerWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\LoginWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\Note.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\Notes.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\ProjectWindowAdd.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\MainWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\View\ProjectWindowUpd.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\ParticipationWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\ParticipationWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\MessageWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework1\WebStudio_coursework\obj\Debug\MessageWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\bin\Debug\WebStudio_coursework.exe.config
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\bin\Debug\WebStudio_coursework.exe
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\bin\Debug\WebStudio_coursework.pdb
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\bin\Debug\EntityFramework.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\bin\Debug\MaterialDesignColors.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\bin\Debug\ViewModel.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\bin\Debug\Model.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\bin\Debug\ViewModel.pdb
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\bin\Debug\ViewModel.dll.config
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\bin\Debug\EntityFramework.xml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\bin\Debug\Model.pdb
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\bin\Debug\Model.dll.config
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\WebStudio_coursework.csprojAssemblyReference.cache
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\MessageWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\ParticipationWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\DepartmentWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\EmployeeWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\RoleWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\ServiceWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\StatusWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\CustomerWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\LoginWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\Note.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\Notes.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\ProjectWindowAdd.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\MainWindow.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\ProjectWindowUpd.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\App.g.cs
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\WebStudio_coursework_MarkupCompile.cache
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\WebStudio_coursework_MarkupCompile.lref
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\App.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\MessageWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\ParticipationWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\DepartmentWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\EmployeeWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\RoleWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\ServiceWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\StatusWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\CustomerWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\LoginWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\Note.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\Notes.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\ProjectWindowAdd.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\MainWindow.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\View\ProjectWindowUpd.baml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\WebStudio_coursework.g.resources
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\WebStudio_coursework.Properties.Resources.resources
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.GenerateResource.cache
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.CoreCompileInputs.cache
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\WebStudio_coursework.csproj.CopyComplete
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\WebStudio_coursework.exe
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\WebStudio_coursework\obj\Debug\WebStudio_coursework.pdb

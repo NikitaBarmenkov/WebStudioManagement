@@ -1,0 +1,362 @@
+﻿<Window x:Class="WebStudio_coursework.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WebStudio_coursework"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" ResizeMode="NoResize" Closed="Window_Closed">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="399" Margin="10,10,0,0" VerticalAlignment="Top" Width="774">
+            <TabItem x:Name="AllProjects" Header="Проекты">
+                <Grid Background="White">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.15*"/>
+                        <RowDefinition Height="1*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.32*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="0.32*"/>
+                        <ColumnDefinition Width="0.32*"/>
+                        <ColumnDefinition Width="0.32*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button Command="{Binding view_pr}" Content="Просмотр" Grid.Row="0" Grid.Column="0" Margin="5"/>
+                    <Button x:Name="button_add_project" Command="{Binding add_pr}" Content="Добавить" Grid.Row="0" Grid.Column="2" Margin="5"/>
+                    <Button x:Name="button_edit_project" Command="{Binding edit_pr}" Content="Изменить" Grid.Row="0" Grid.Column="3" Margin="5"/>
+                    <Button x:Name="button_delete_project" Command="{Binding del_pr}" Content="Удалить" Grid.Row="0" Grid.Column="4" Margin="5"/>
+                    <ListBox ItemsSource="{Binding d1.Mainprojects}" SelectedItem="{Binding sel_pr}" Grid.Row="1" Grid.ColumnSpan="5" Margin="2,5,5,5" Width="761.6">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel>
+                                    <Grid>
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="1*"/>
+                                            <RowDefinition Height="1*"/>
+                                            <RowDefinition Height="1*"/>
+                                            <RowDefinition Height="1*"/>
+                                            <RowDefinition Height="1*"/>
+                                            <RowDefinition Height="1*"/>
+                                        </Grid.RowDefinitions>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="1*"/>
+                                            <ColumnDefinition Width="1*"/>
+                                            <ColumnDefinition Width="0.2*"/>
+                                            <ColumnDefinition Width="1*"/>
+                                            <ColumnDefinition Width="1*"/>
+                                        </Grid.ColumnDefinitions>
+                                        <Label Content="Название:" Grid.Row="0" Grid.Column="0" Margin="5"/>
+                                        <TextBox Text="{Binding Path=Name}" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="5" Margin="5" IsHitTestVisible="False"/>
+                                        <Label Content="Статус:" Grid.Row="3" Grid.Column="0" Margin="5"/>
+                                        <TextBox Text="{Binding Path=StatusName}" Grid.Row="3" Grid.Column="1" Margin="5" IsHitTestVisible="False"/>
+                                        <Label Content="Руководитель:" Grid.Row="2" Grid.Column="0" Margin="5"/>
+                                        <TextBox Text="{Binding Path=Head}" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="5" Margin="5" IsHitTestVisible="False"/>
+                                        <Label Content="Стоимость:" Grid.Row="4" Grid.Column="3" Margin="5"/>
+                                        <TextBox Text="{Binding Path=Cost}" Grid.Row="4" Grid.Column="4" Margin="5" IsHitTestVisible="False"/>
+                                        <Label Content="Веб-адрес:" Grid.Row="1" Grid.Column="0" Margin="5"/>
+                                        <TextBox Text="{Binding Path=Web_address}" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="5" Margin="5" IsHitTestVisible="False"/>
+                                        <Label Content="Заказчик:" Grid.Row="3" Grid.Column="3" Margin="5"/>
+                                        <TextBox Text="{Binding Path=CustomerName}" Grid.Row="3" Grid.Column="4" Margin="5" IsHitTestVisible="False"/>
+                                        <Label Content="Услуга:" Grid.Row="4" Grid.Column="0" Margin="5"/>
+                                        <TextBox Text="{Binding Path=ServiceName}" Grid.Row="4" Grid.Column="1" Margin="5" IsHitTestVisible="False"/>
+                                        <Label Content="Дата:" Grid.Row="5" Grid.Column="0" Margin="5"/>
+                                        <DatePicker SelectedDate="{Binding Path=Date}" Grid.Row="5" Grid.Column="1" Margin="5" IsHitTestVisible="False"/>
+                                        <Label Content="Дата сдачи:" Grid.Row="5" Grid.Column="3" Margin="5"/>
+                                        <DatePicker SelectedDate="{Binding Path=EndDate}" Grid.Row="5" Grid.Column="4" Margin="5" IsHitTestVisible="False"/>
+                                    </Grid>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Задачи">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <TabControl>
+                        <TabItem Header="Исходящие">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="0.15*"/>
+                                    <RowDefinition Height="1*"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1*"/>
+                                    <ColumnDefinition Width="0.2*"/>
+                                    <ColumnDefinition Width="0.2*"/>
+                                </Grid.ColumnDefinitions>
+                                <Button Command="{Binding add_mes}" Content="Добавить" Grid.Row="0" Grid.Column="1" Margin="5"/>
+                                <Button Command="{Binding del_mes}" Content="Удалить" Grid.Row="0" Grid.Column="3" Margin="5"/>
+                                <ListBox ItemsSource="{Binding d1.MessagesFrom}" SelectedItem="{Binding sel_mes}" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" Margin="5">
+                                    <ListBox.ItemTemplate>
+                                        <DataTemplate>
+                                            <StackPanel>
+                                                <Grid>
+                                                    <Grid.RowDefinitions>
+                                                        <RowDefinition Height="1*"/>
+                                                        <RowDefinition Height="0.2*"/>
+                                                        <RowDefinition Height="0.2*"/>
+                                                        <RowDefinition Height="0.2*"/>
+                                                    </Grid.RowDefinitions>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="1*"/>
+                                                        <ColumnDefinition Width="1*"/>
+                                                    </Grid.ColumnDefinitions>
+                                                    <TextBox Text="{Binding Path=MessageText}" Grid.Row="0" Grid.Column="0" Margin="5" Grid.ColumnSpan="2" IsHitTestVisible="False"/>
+                                                    <Label Content="От кого" Grid.Row="1" Grid.Column="0" Margin="5"/>
+                                                    <TextBox Text="{Binding Path=FromUserName}" Grid.Row="1" Grid.Column="1" Margin="5" IsHitTestVisible="False"/>
+                                                    <Label Content="Кому" Grid.Row="2" Grid.Column="0" Margin="5"/>
+                                                    <TextBox Text="{Binding Path=ToUserName}" Grid.Row="2" Grid.Column="1" Margin="5" IsHitTestVisible="False"/>
+                                                    <Label Content="Дата" Grid.Row="3" Grid.Column="0" Margin="5"/>
+                                                    <TextBox Text="{Binding Path=Date}" Grid.Row="3" Grid.Column="1" Margin="5" IsHitTestVisible="False"/>
+                                                </Grid>
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </ListBox.ItemTemplate>
+                                </ListBox>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="Входящие">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="0.15*"/>
+                                    <RowDefinition Height="1*"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1*"/>
+                                    <ColumnDefinition Width="0.2*"/>
+                                </Grid.ColumnDefinitions>
+                                <Button Command="{Binding refresh_mes}" Content="Обновить" Grid.Row="0" Grid.Column="1" Margin="5"/>
+                                <ListBox ItemsSource="{Binding d1.MessagesTo}" SelectedItem="{Binding sel_mes}" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Margin="5">
+                                    <ListBox.ItemTemplate>
+                                        <DataTemplate>
+                                            <StackPanel>
+                                                <Grid>
+                                                    <Grid.RowDefinitions>
+                                                        <RowDefinition Height="1*"/>
+                                                        <RowDefinition Height="0.2*"/>
+                                                        <RowDefinition Height="0.2*"/>
+                                                        <RowDefinition Height="0.2*"/>
+                                                    </Grid.RowDefinitions>
+                                                    <Grid.ColumnDefinitions>
+                                                        <ColumnDefinition Width="1*"/>
+                                                        <ColumnDefinition Width="1*"/>
+                                                    </Grid.ColumnDefinitions>
+                                                    <TextBox Text="{Binding Path=MessageText}" Grid.Row="0" Grid.Column="0" Margin="5" Grid.ColumnSpan="2" IsHitTestVisible="False"/>
+                                                    <Label Content="От кого" Grid.Row="1" Grid.Column="0" Margin="5"/>
+                                                    <TextBox Text="{Binding Path=FromUserName}" Grid.Row="1" Grid.Column="1" Margin="5" IsHitTestVisible="False"/>
+                                                    <Label Content="Кому" Grid.Row="2" Grid.Column="0" Margin="5"/>
+                                                    <TextBox Text="{Binding Path=ToUserName}" Grid.Row="2" Grid.Column="1" Margin="5" IsHitTestVisible="False"/>
+                                                    <Label Content="Дата" Grid.Row="3" Grid.Column="0" Margin="5"/>
+                                                    <TextBox Text="{Binding Path=Date}" Grid.Row="3" Grid.Column="1" Margin="5" IsHitTestVisible="False"/>
+                                                </Grid>
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </ListBox.ItemTemplate>
+                                </ListBox>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="MyProjects" Header="Мои Проекты">
+                <Grid Background="White">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.15*"/>
+                        <RowDefinition Height="1*"/>
+                    </Grid.RowDefinitions>
+                    <Button Command="{Binding edit_mypr}" Content="Просмотр" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Left" Margin="5"/>
+                    <ListBox ItemsSource="{Binding d1.Myprojects}" SelectedItem="{Binding my_sel_pr}" Grid.Row="1" Grid.Column="0" Margin="5">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel>
+                                    <Grid>
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="1*"/>
+                                            <RowDefinition Height="1*"/>
+                                            <RowDefinition Height="1*"/>
+                                            <RowDefinition Height="1*"/>
+                                            <RowDefinition Height="1*"/>
+                                            <RowDefinition Height="1*"/>
+                                        </Grid.RowDefinitions>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="1*"/>
+                                            <ColumnDefinition Width="1*"/>
+                                            <ColumnDefinition Width="0.2*"/>
+                                            <ColumnDefinition Width="1*"/>
+                                            <ColumnDefinition Width="1*"/>
+                                        </Grid.ColumnDefinitions>
+                                        <Label Content="Название:" Grid.Row="0" Grid.Column="0" Margin="5"/>
+                                        <TextBox Text="{Binding Path=Name}" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="5" Margin="5" IsHitTestVisible="False"/>
+                                        <Label Content="Статус:" Grid.Row="3" Grid.Column="0" Margin="5"/>
+                                        <TextBox Text="{Binding Path=StatusName}" Grid.Row="3" Grid.Column="1" Margin="5" IsHitTestVisible="False"/>
+                                        <Label Content="Руководитель:" Grid.Row="2" Grid.Column="0" Margin="5"/>
+                                        <TextBox Text="{Binding Path=Head}" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="5" Margin="5" IsHitTestVisible="False"/>
+                                        <Label Content="Веб-адрес:" Grid.Row="4" Grid.Column="3" Margin="5"/>
+                                        <TextBox Text="{Binding Path=Cost}" Grid.Row="4" Grid.Column="4" Margin="5" IsHitTestVisible="False"/>
+                                        <Label Content="Веб-адрес:" Grid.Row="1" Grid.Column="0" Margin="5"/>
+                                        <TextBox Text="{Binding Path=Web_address}" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="5" Margin="5" IsHitTestVisible="False"/>
+                                        <Label Content="Заказчик:" Grid.Row="3" Grid.Column="3" Margin="5"/>
+                                        <TextBox Text="{Binding Path=CustomerName}" Grid.Row="3" Grid.Column="4" Margin="5" IsHitTestVisible="False"/>
+                                        <Label Content="Услуга:" Grid.Row="4" Grid.Column="0" Margin="5"/>
+                                        <TextBox Text="{Binding Path=ServiceName}" Grid.Row="4" Grid.Column="1" Margin="5" IsHitTestVisible="False"/>
+                                        <Label Content="Дата:" Grid.Row="5" Grid.Column="0" Margin="5"/>
+                                        <DatePicker SelectedDate="{Binding Path=Date}" Grid.Row="5" Grid.Column="1" Margin="5" IsHitTestVisible="False"/>
+                                        <Label Content="Дата сдачи:" Grid.Row="5" Grid.Column="3" Margin="5"/>
+                                        <DatePicker SelectedDate="{Binding Path=EndDate}" Grid.Row="5" Grid.Column="4" Margin="5" IsHitTestVisible="False"/>
+                                    </Grid>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tab_customers" Header="Заказчики">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.15*"/>
+                        <RowDefinition Height="1*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="0.3*"/>
+                        <ColumnDefinition Width="0.3*"/>
+                        <ColumnDefinition Width="0.3*"/>
+                    </Grid.ColumnDefinitions>
+                    <DataGrid x:Name="dgv_c" ItemsSource="{Binding d1.Customers}" SelectedItem="{Binding sel_cus}" AutoGenerateColumns="False" Grid.Row="1" Grid.Column="0" Margin="5" Grid.ColumnSpan="4">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Имя" Binding="{Binding Path=Name}" Width="200"/>
+                            <DataGridTextColumn Header="Телефон" Binding="{Binding Path=Phone}" Width="150"/>
+                            <DataGridTextColumn Header="Email" Binding="{Binding Path=Email}" Width="200"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Button x:Name="b_add_cus" Command="{Binding add_cus}" Content="Добавить" Grid.Row="0" Grid.Column="1" Margin="5"/>
+                    <Button x:Name="b_upd_cus" Command="{Binding edit_cus}" Content="Изменить" Grid.Row="0" Grid.Column="2" Margin="5"/>
+                    <Button x:Name="b_del_cus" Command="{Binding del_cus}" Content="Удалить" Grid.Row="0" Grid.Column="3" Margin="5"/>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tab_employees" Header="Сотрудники">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.15*"/>
+                        <RowDefinition Height="1*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="0.3*"/>
+                        <ColumnDefinition Width="0.3*"/>
+                        <ColumnDefinition Width="0.3*"/>
+                    </Grid.ColumnDefinitions>
+                    <DataGrid x:Name="dgv_e" ItemsSource="{Binding d1.Employees}" SelectedItem="{Binding sel_emp}" AutoGenerateColumns="False" Grid.Row="1" Grid.Column="0" Margin="5" Grid.ColumnSpan="4">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Имя" Binding="{Binding Name}" Width="200"/>
+                            <DataGridTextColumn Header="Должность" Binding="{Binding PositionName}" Width="150"/>
+                            <DataGridTextColumn Header="Зарплата" Binding="{Binding Salary}" Width="100"/>
+                            <DataGridTextColumn Header="Дата рождения" Binding="{Binding DateOfBirth}" Width="100"/>
+                            <DataGridTextColumn Header="Адрес" Binding="{Binding Address}" Width="150"/>
+                            <DataGridTextColumn Header="Телефон" Binding="{Binding Phone}" Width="150"/>
+                            <DataGridTextColumn Header="Почта" Binding="{Binding Email}" Width="100"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Button x:Name="b_add_emp" Command="{Binding add_emp}" Content="Добавить" Grid.Row="0" Grid.Column="1" Margin="5"/>
+                    <Button x:Name="b_upd_emp" Command="{Binding edit_emp}" Content="Изменить" Grid.Row="0" Grid.Column="2" Margin="5"/>
+                    <Button x:Name="b_del_emp" Command="{Binding del_emp}" Content="Удалить" Grid.Row="0" Grid.Column="3" Margin="5"/>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tab_departments" Header="Отделы">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.15*"/>
+                        <RowDefinition Height="1*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="0.3*"/>
+                        <ColumnDefinition Width="0.3*"/>
+                        <ColumnDefinition Width="0.3*"/>
+                    </Grid.ColumnDefinitions>
+                    <DataGrid x:Name="dgv_d" ItemsSource="{Binding d1.Departments}" SelectedItem="{Binding sel_dep}" AutoGenerateColumns="False" Grid.Row="1" Grid.Column="0" Margin="5" Grid.ColumnSpan="4">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Binding="{Binding Path=ID}" Width="50"/>
+                            <DataGridTextColumn Header="Название" Binding="{Binding Path=Name}" Width="150"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Button x:Name="b_add_dep" Command="{Binding add_dep}" Content="Добавить" Grid.Row="0" Grid.Column="1" Margin="5"/>
+                    <Button x:Name="b_upd_dep" Command="{Binding edit_dep}" Content="Изменить" Grid.Row="0" Grid.Column="2" Margin="5"/>
+                    <Button x:Name="b_del_dep" Command="{Binding del_dep}" Content="Удалить" Grid.Row="0" Grid.Column="3" Margin="5"/>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tab_roles" Header="Роли">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.15*"/>
+                        <RowDefinition Height="1*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="0.3*"/>
+                        <ColumnDefinition Width="0.3*"/>
+                        <ColumnDefinition Width="0.3*"/>
+                    </Grid.ColumnDefinitions>
+                    <DataGrid x:Name="dgv_r" ItemsSource="{Binding d1.Roles}" SelectedItem="{Binding sel_rol}" AutoGenerateColumns="False" Grid.Row="1" Grid.Column="0" Margin="5" Grid.ColumnSpan="4">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Binding="{Binding Path=ID}" Width="50"/>
+                            <DataGridTextColumn Header="Название" Binding="{Binding Path=Name}" Width="150"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Button x:Name="b_add_role" Command="{Binding add_rol}" Content="Добавить" Grid.Row="0" Grid.Column="1" Margin="5"/>
+                    <Button x:Name="b_upd_role" Command="{Binding edit_rol}" Content="Изменить" Grid.Row="0" Grid.Column="2" Margin="5"/>
+                    <Button x:Name="b_del_role" Command="{Binding del_rol}" Content="Удалить" Grid.Row="0" Grid.Column="3" Margin="5"/>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tab_services" Header="Услуги">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.15*"/>
+                        <RowDefinition Height="1*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="0.3*"/>
+                        <ColumnDefinition Width="0.3*"/>
+                        <ColumnDefinition Width="0.3*"/>
+                    </Grid.ColumnDefinitions>
+                    <DataGrid x:Name="dgv_s" ItemsSource="{Binding d1.Services}" SelectedItem="{Binding sel_ser}" AutoGenerateColumns="False" Grid.Row="1" Grid.Column="0" Margin="5" Grid.ColumnSpan="4">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Binding="{Binding Path=ID}" Width="50"/>
+                            <DataGridTextColumn Header="Название" Binding="{Binding Path=Name}" Width="150"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Button x:Name="b_add_ser" Command="{Binding add_ser}" Content="Добавить" Grid.Row="0" Grid.Column="1" Margin="5"/>
+                    <Button x:Name="b_upd_ser" Command="{Binding edit_ser}" Content="Изменить" Grid.Row="0" Grid.Column="2" Margin="5"/>
+                    <Button x:Name="b_del_ser" Command="{Binding del_ser}" Content="Удалить" Grid.Row="0" Grid.Column="3" Margin="5"/>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tab_statuses" Header="Статусы">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.15*"/>
+                        <RowDefinition Height="1*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="0.3*"/>
+                        <ColumnDefinition Width="0.3*"/>
+                        <ColumnDefinition Width="0.3*"/>
+                    </Grid.ColumnDefinitions>
+                    <DataGrid x:Name="dgv_st" ItemsSource="{Binding d1.Statuses}" SelectedItem="{Binding sel_st}" AutoGenerateColumns="False" Grid.Row="1" Grid.Column="0" Margin="5" Grid.ColumnSpan="4">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Binding="{Binding Path=ID}" Width="50"/>
+                            <DataGridTextColumn Header="Название" Binding="{Binding Path=Name}" Width="150"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Button x:Name="b_add_st" Command="{Binding add_st}" Content="Добавить" Grid.Row="0" Grid.Column="1" Margin="5"/>
+                    <Button x:Name="b_upd_st" Command="{Binding edit_st}" Content="Изменить" Grid.Row="0" Grid.Column="2" Margin="5"/>
+                    <Button x:Name="b_del_st" Command="{Binding del_st}" Content="Удалить" Grid.Row="0" Grid.Column="3" Margin="5"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

@@ -1,0 +1,75 @@
+﻿<Window x:Class="WebStudio_coursework.ProjectWindowUpd"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WebStudio_coursework"
+        mc:Ignorable="d"
+        Title="Project" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1.5*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="label_updateproject_name" Content="Название проекта" Grid.Row="0" Grid.Column="0" Margin="15 5 5 5"/>
+        <Label x:Name="label_updateproject_status" Content="Статус" VerticalAlignment="Bottom" Grid.Row="4" Grid.Column="1" Margin="5"/>
+        <Label x:Name="label_updateproject_cost" Content="Стоимость" VerticalAlignment="Bottom" Grid.Row="4" Grid.Column="0" Margin="15 5 5 5"/>
+        <Label x:Name="label_updateproject_service" Content="Услуга" VerticalAlignment="Bottom" Grid.Row="6" Grid.Column="0" Margin="15 5 5 5"/>
+        <Label Content="Заказчик" VerticalAlignment="Bottom" Grid.Row="4" Grid.Column="2" Margin="5"/>
+        <Label x:Name="label_updateproject_webaddress" Content="Веб-адрес" Grid.Row="2" Grid.Column="0" Margin="15 5 5 5"/>
+        <Label x:Name="label_updateproject_head" Content="Руководитель" VerticalAlignment="Bottom" Grid.Row="6" Grid.Column="1" Margin="5"/>
+        <Label x:Name="label_updateproject_startdate" HorizontalContentAlignment="Right" Content="Дата начала" Grid.Row="8" Grid.Column="0" Margin="5"/>
+        <Label x:Name="label_updateproject_enddate" HorizontalContentAlignment="Right" Content="Дата сдачи" Grid.Row="9" Grid.Column="0" Margin="5"/>
+
+        <TextBox x:Name="tb_updpr_name" Text="{Binding Path=Pr.Name}" Grid.Row="1" Grid.Column="0" Margin="15 5 5 5" Grid.ColumnSpan="3"/>
+        <TextBox x:Name="tb_updpr_cost" Text="{Binding Path=Pr.Cost}" Grid.Row="5" Grid.Column="0" Margin="15 5 5 5"/>
+        <ComboBox x:Name="cb_updpr_service" ItemsSource="{Binding d1.Services}" SelectedValuePath="ID" DisplayMemberPath="Name" SelectedValue="{Binding Path=Pr.ServiceID}" Grid.Row="7" Grid.Column="0" Margin="15 5 5 5"/>
+        <TextBox x:Name="tb_updpr_webaddress" Text="{Binding Path=Pr.Web_address}" Grid.Row="3" Grid.Column="0" Margin="15 5 5 5" Grid.ColumnSpan="3"/>
+        <ComboBox x:Name="cb_updpr_head" ItemsSource="{Binding d1.Participations}" SelectedValuePath="Employee_ID" DisplayMemberPath="EmployeeName" SelectedValue="{Binding Path=Pr.HeadID}" Grid.Row="7" Grid.Column="1" Margin="5"/>
+        <DatePicker x:Name="dt_updpr_startdate" SelectedDate="{Binding Pr.Date}" Grid.Row="8" Grid.Column="1" Margin="5"/>
+        <DatePicker x:Name="dt_updpr_enddate" SelectedDate="{Binding Pr.EndDate}" Grid.Row="9" Grid.Column="1" Margin="5"/>
+        <ComboBox x:Name="cb_updpr_customer" ItemsSource="{Binding d1.Customers}" DisplayMemberPath="Name" SelectedValuePath="ID" SelectedValue="{Binding Path=Pr.CustomerID}" Grid.Row="5" Grid.Column="2" Margin="5"/>
+        <ComboBox x:Name="cb_updpr_status" ItemsSource="{Binding d1.Statuses}" SelectedValuePath="ID" DisplayMemberPath="Name" SelectedValue="{Binding Path=Pr.StatusID}" Grid.Row="5" Grid.Column="1" Margin="5"/>
+        <DataGrid x:Name="dgv" ItemsSource="{Binding d1.Participations}" SelectedItem="{Binding sel_part}" AutoGenerateColumns="False" Grid.Row="0" Grid.Column="3" Margin="15 15 15 10" Grid.RowSpan="7">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Сотрудник" Binding="{Binding Path=EmployeeName}" Width="150"/>
+                <DataGridTextColumn Header="Роль" Binding="{Binding Path=RoleName}" Width="150"/>
+                <DataGridTextColumn Header="Доплата" Binding="{Binding Path=Award}" Width="150"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Command="{Binding JournalClick}" Content="Журнал событий" Grid.Row="10" Grid.Column="0" Margin="15 5 5 15" Grid.ColumnSpan="2"/>
+        <Button Content="OK" Grid.Row="10" Grid.Column="2" Margin="5 5 5 15" IsDefault="True" Click="Button_Click"/>
+
+        <GroupBox x:Name="ParticipationsManagement" Header="Управление участиками проекта" Grid.Row="7" Grid.Column="3" Margin="5" Grid.RowSpan="4">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Button Command="{Binding add_participation}" CommandParameter="{Binding ElementName=dgv}" Content="Добавить" Grid.Row="0" Grid.Column="0" Margin="5" Grid.ColumnSpan="2"/>
+                    <Button Command="{Binding edit_participation}" Content="Изменить" Grid.Row="1" Grid.Column="0" Margin="5"/>
+                <Button Command="{Binding del_participation}" CommandParameter="{Binding ElementName=dgv}" Content="Удалить" Grid.Row="1" Grid.Column="1" Margin="5"/>
+            </Grid>
+        </GroupBox>
+
+    </Grid>
+</Window>

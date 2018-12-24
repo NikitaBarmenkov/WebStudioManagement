@@ -1,0 +1,119 @@
+C:\Users\nbarm\Desktop\WebStudio_coursework\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\nbarm\Desktop\WebStudio_coursework\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\nbarm\Desktop\WebStudio_coursework\ViewModel\bin\Debug\ViewModel.dll.config
+C:\Users\nbarm\Desktop\WebStudio_coursework\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\nbarm\Desktop\WebStudio_coursework\ViewModel\bin\Debug\EntityFramework.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework\ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework\ViewModel\bin\Debug\Model.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework\ViewModel\bin\Debug\Model.pdb
+C:\Users\nbarm\Desktop\WebStudio_coursework\ViewModel\bin\Debug\Model.dll.config
+C:\Users\nbarm\Desktop\WebStudio_coursework\ViewModel\bin\Debug\EntityFramework.xml
+C:\Users\nbarm\Desktop\WebStudio_coursework\ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nbarm\Desktop\WebStudio_coursework\ViewModel\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework\ViewModel\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\nbarm\Desktop\WebStudio_coursework\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework\ViewModel\obj\Debug\ViewModel.pdb
+F:\WebStudio_coursework\ViewModel\bin\Debug\ViewModel.dll.config
+F:\WebStudio_coursework\ViewModel\bin\Debug\ViewModel.dll
+F:\WebStudio_coursework\ViewModel\bin\Debug\ViewModel.pdb
+F:\WebStudio_coursework\ViewModel\bin\Debug\EntityFramework.dll
+F:\WebStudio_coursework\ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+F:\WebStudio_coursework\ViewModel\bin\Debug\Model.dll
+F:\WebStudio_coursework\ViewModel\bin\Debug\Model.pdb
+F:\WebStudio_coursework\ViewModel\bin\Debug\Model.dll.config
+F:\WebStudio_coursework\ViewModel\bin\Debug\EntityFramework.xml
+F:\WebStudio_coursework\ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+F:\WebStudio_coursework\ViewModel\bin\Debug\ru\EntityFramework.resources.dll
+F:\WebStudio_coursework\ViewModel\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+F:\WebStudio_coursework\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+F:\WebStudio_coursework\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+F:\WebStudio_coursework\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+F:\WebStudio_coursework\ViewModel\obj\Debug\ViewModel.dll
+F:\WebStudio_coursework\ViewModel\obj\Debug\ViewModel.pdb
+D:\WebStudio_coursework\ViewModel\bin\Debug\ViewModel.dll.config
+D:\WebStudio_coursework\ViewModel\bin\Debug\ViewModel.dll
+D:\WebStudio_coursework\ViewModel\bin\Debug\ViewModel.pdb
+D:\WebStudio_coursework\ViewModel\bin\Debug\EntityFramework.dll
+D:\WebStudio_coursework\ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\WebStudio_coursework\ViewModel\bin\Debug\Model.dll
+D:\WebStudio_coursework\ViewModel\bin\Debug\Model.pdb
+D:\WebStudio_coursework\ViewModel\bin\Debug\Model.dll.config
+D:\WebStudio_coursework\ViewModel\bin\Debug\EntityFramework.xml
+D:\WebStudio_coursework\ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\WebStudio_coursework\ViewModel\bin\Debug\ru\EntityFramework.resources.dll
+D:\WebStudio_coursework\ViewModel\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\WebStudio_coursework\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+D:\WebStudio_coursework\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+D:\WebStudio_coursework\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+D:\WebStudio_coursework\ViewModel\obj\Debug\ViewModel.dll
+D:\WebStudio_coursework\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\Никита\Desktop\WebStudio_coursework\ViewModel\bin\Debug\ViewModel.dll.config
+C:\Users\Никита\Desktop\WebStudio_coursework\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\Никита\Desktop\WebStudio_coursework\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\Никита\Desktop\WebStudio_coursework\ViewModel\bin\Debug\EntityFramework.dll
+C:\Users\Никита\Desktop\WebStudio_coursework\ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Никита\Desktop\WebStudio_coursework\ViewModel\bin\Debug\Model.dll
+C:\Users\Никита\Desktop\WebStudio_coursework\ViewModel\bin\Debug\Model.pdb
+C:\Users\Никита\Desktop\WebStudio_coursework\ViewModel\bin\Debug\Model.dll.config
+C:\Users\Никита\Desktop\WebStudio_coursework\ViewModel\bin\Debug\EntityFramework.xml
+C:\Users\Никита\Desktop\WebStudio_coursework\ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Никита\Desktop\WebStudio_coursework\ViewModel\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Никита\Desktop\WebStudio_coursework\ViewModel\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Никита\Desktop\WebStudio_coursework\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\WebStudio_coursework\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\WebStudio_coursework\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\Никита\Desktop\WebStudio_coursework\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\Никита\Desktop\WebStudio_coursework\ViewModel\obj\Debug\ViewModel.pdb
+D:\WebStudio_coursework1\ViewModel\bin\Debug\ViewModel.dll.config
+D:\WebStudio_coursework1\ViewModel\bin\Debug\ViewModel.dll
+D:\WebStudio_coursework1\ViewModel\bin\Debug\ViewModel.pdb
+D:\WebStudio_coursework1\ViewModel\bin\Debug\EntityFramework.dll
+D:\WebStudio_coursework1\ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\WebStudio_coursework1\ViewModel\bin\Debug\Model.dll
+D:\WebStudio_coursework1\ViewModel\bin\Debug\Model.pdb
+D:\WebStudio_coursework1\ViewModel\bin\Debug\Model.dll.config
+D:\WebStudio_coursework1\ViewModel\bin\Debug\EntityFramework.xml
+D:\WebStudio_coursework1\ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\WebStudio_coursework1\ViewModel\bin\Debug\ru\EntityFramework.resources.dll
+D:\WebStudio_coursework1\ViewModel\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\WebStudio_coursework1\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+D:\WebStudio_coursework1\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+D:\WebStudio_coursework1\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+D:\WebStudio_coursework1\ViewModel\obj\Debug\ViewModel.dll
+D:\WebStudio_coursework1\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\nbarm\Desktop\WebStudio_coursework1\ViewModel\bin\Debug\ViewModel.dll.config
+C:\Users\nbarm\Desktop\WebStudio_coursework1\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework1\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\nbarm\Desktop\WebStudio_coursework1\ViewModel\bin\Debug\EntityFramework.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework1\ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework1\ViewModel\bin\Debug\Model.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework1\ViewModel\bin\Debug\Model.pdb
+C:\Users\nbarm\Desktop\WebStudio_coursework1\ViewModel\bin\Debug\Model.dll.config
+C:\Users\nbarm\Desktop\WebStudio_coursework1\ViewModel\bin\Debug\EntityFramework.xml
+C:\Users\nbarm\Desktop\WebStudio_coursework1\ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nbarm\Desktop\WebStudio_coursework1\ViewModel\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework1\ViewModel\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework1\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\nbarm\Desktop\WebStudio_coursework1\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\nbarm\Desktop\WebStudio_coursework1\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\nbarm\Desktop\WebStudio_coursework1\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework1\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\ViewModel\bin\Debug\ViewModel.dll.config
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\ViewModel\bin\Debug\EntityFramework.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\ViewModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\ViewModel\bin\Debug\Model.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\ViewModel\bin\Debug\Model.pdb
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\ViewModel\bin\Debug\Model.dll.config
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\ViewModel\bin\Debug\EntityFramework.xml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\ViewModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\ViewModel\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\ViewModel\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\ViewModel\obj\Debug\ViewModel.csprojAssemblyReference.cache
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\nbarm\Desktop\WebStudio_coursework с дизайном\ViewModel\obj\Debug\ViewModel.pdb
